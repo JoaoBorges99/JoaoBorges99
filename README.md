@@ -1,4 +1,4 @@
-### Hi there if(ulatino) I`m João Victor else I`m John 😎👋
+### Hi there if(ulatino) I'm `João Victor` else I'm `John` 😎👋
 
 - 🔭 I’m currently working on:
   - AGN Consultoria e Gestão
@@ -16,7 +16,7 @@
   - JavaScript
   - PlSql
 - ⚡ Fun fact:
-  Top 10 South America Highest KillStreak in Call of Duty Black Ops 4 🎮
+  - Top 10 South America Highest KillStreak in Call of Duty Black Ops 4 🎮
 
 <div>
 <a href="https://github.com/JoaoBorges99">
