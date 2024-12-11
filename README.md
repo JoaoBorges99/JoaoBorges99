@@ -17,7 +17,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joão-victor-borges-nunes-9a9871286" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seu-usuario" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joão-victor-borges-nunes-9a9871286" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -32,6 +32,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/></a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorges99&show_icons=true&locale=en&layout=compact" alt="JoaoBorges99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorges99&show_icons=true&locale=en&layout=compact" alt="JoaoBorges99" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoBorges99&show_icons=true&locale=en" alt="JoaoBorges99" /></p>
