@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoBorges99&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="JoaoBorges99" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **[Projeto Atual](https://github.com/seu-usuario/seu-projeto)**
-
-- 🌱 Estou aprendendo **[Tecnologias ou Habilidades que está aprendendo]**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [meu portfólio](https://seuportfolio.com)
-
-- 💬 Pergunte-me sobre **[Suas especialidades: Flutter, PHP, NodeJS, Oracle SQL]**
-
-- 📫 Como me encontrar: **borgesvictorj@gmail.com**
-
-- 📄 Saiba mais sobre minha experiência [aqui](https://www.linkedin.com/in/joão-victor-borges-nunes-9a9871286)
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joão-victor-borges-nunes-9a9871286" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/></a>
