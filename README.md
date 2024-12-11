@@ -32,6 +32,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/></a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorges99&show_icons=true&locale=en&layout=compact" alt="JoaoBorges99" /></p>
+<div>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorges99&show_icons=true&locale=en&layout=compact" alt="JoaoBorges99" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoBorges99&show_icons=true&locale=en" alt="JoaoBorges99" /></p> 
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoBorges99&show_icons=true&locale=en" alt="JoaoBorges99" /></p>
