@@ -21,22 +21,16 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+<div> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" height="40" width="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" height="40" width="40"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="40" width="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" height="40" width="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="40" width="40"/> </a>
-</p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorges99&show_icons=true&locale=en&layout=compact" alt="JoaoBorges99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoBorges99&show_icons=true&locale=en" alt="JoaoBorges99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBorges99&" alt="JoaoBorges99" /></p>
-
-
-<div>
-<a href="https://github.com/JoaoBorges99">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoBorges99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
